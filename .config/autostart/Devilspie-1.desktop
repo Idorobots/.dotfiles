@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=devilspie
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_US]=Devilspie
+Comment[en_US]=
+X-GNOME-Autostart-Delay=0
