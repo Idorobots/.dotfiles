@@ -1,0 +1,16 @@
+[include]
+	path = .gitconfig.local
+[core]
+	editor = vim
+[user]
+	name = Kajetan Rzepecki
+	email = k@spartan.works
+	signingkey = 115F54A007331F81FBCD8E4D652F6916DD61728E
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset %G?' --abbrev-commit
+[http]
+	postBuffer = 524288000
+[push]
+	default = simple
+[commit]
+	gpgsign = true
